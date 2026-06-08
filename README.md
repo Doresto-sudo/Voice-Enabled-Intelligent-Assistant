@@ -33,7 +33,7 @@ The assistant runs a continuous listen → think → speak loop:
 3. **Speak** — `text_to_speech.py` converts the model's response back into audio using ElevenLabs, with a custom voice profile.
 4. **Visualise** — `ui.py` drives a pygame animation that responds to voice volume in real time and reflects the current state of the system.
 
-See [`docs/architecture.md`](docs/architecture.md) for a fuller breakdown of the pipeline.
+See [`architecture.diagram.png`](architecture.diagram.png) for a fuller breakdown of the pipeline.
 
 My focus throughout was on the **system architecture and control logic** — how the components fit together and hand off to one another — rather than writing every line by hand.
 
