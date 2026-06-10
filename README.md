@@ -85,6 +85,8 @@ python src/main.py
 
 Adding wake-word detection so the assistant can run hands-free, and caching common queries to cut response latency.
 
+## View Demo Here
+
 ## About
 
 Course project for AI & Robotics, B.Sc. Electrical & Electronics Engineering, Academic City University, Accra, Ghana.
