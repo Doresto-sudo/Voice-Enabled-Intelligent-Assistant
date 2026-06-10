@@ -83,7 +83,7 @@ python src/main.py
 
 ## What I'd Build Next
 
-Adding wake-word detection so the assistant can run hands-free, supporting local Ghanaian languages for transcription and responses, and caching common queries to cut response latency.
+Adding wake-word detection so the assistant can run hands-free, and caching common queries to cut response latency.
 
 ## About
 
