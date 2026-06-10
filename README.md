@@ -86,6 +86,7 @@ python src/main.py
 Adding wake-word detection so the assistant can run hands-free, and caching common queries to cut response latency.
 
 ## View Demo Here
+▶️ [Watch the Uncle Yaw demo on YouTube](https://youtu.be/v2ovnbLVgaw)
 
 ## About
 
